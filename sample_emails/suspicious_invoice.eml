@@ -1,0 +1,37 @@
+From: "PayPal Account Security" <service-alert@update-paypal-security.cc>
+To: victim.user@corporate.com
+Subject: Action Required: Your Account Has Been Locked Due To Unusual Sign-in
+Date: Fri, 09 Oct 2026 08:15:20 +0000
+Message-ID: <threat-987214-alpha@update-paypal-security.cc>
+Return-Path: <bounce-daemon@stealth-spoofer.net>
+Authentication-Results: mx.secure-gateway.com;
+ spf=fail (domain of stealth-spoofer.net does not designate 185.220.101.45 as permitted sender);
+ dkim=fail;
+ dmarc=fail
+Received: from mx-out.stealth-spoofer.net (185.220.101.45) by mx.secure-gateway.com with ESMTPS id 4Kz89L2q; Fri, 09 Oct 2026 08:15:21 +0000
+Content-Type: multipart/mixed; boundary="BOUNDARY_PHISH_789"
+
+--BOUNDARY_PHISH_789
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html>
+<html>
+<body>
+  <h2>Urgent Security Notice</h2>
+  <p>Dear customer, unauthorized activity was logged from IP 194.26.29.112.</p>
+  <p>To avoid permanent termination of your wallet, confirm your credentials immediately:</p>
+  <p><a href="http://194.87.139.12/login/verify.php">https://www.paypal.com/security-challenge</a></p>
+  <p>Alternate verification server: http://malicious-credential-stealer.org/session/token</p>
+</body>
+</html>
+
+--BOUNDARY_PHISH_789
+Content-Type: application/x-msdownload; name="Invoice_OCT_2026.exe"
+Content-Disposition: attachment; filename="Invoice_OCT_2026.exe"
+Content-Transfer-Encoding: base64
+
+TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAA2AAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBiZSBydW4gaW4gRE9TIG1v
+ZGUuDQ0KJAAAAAAAAAA=
+
+--BOUNDARY_PHISH_789--
