@@ -147,5 +147,6 @@ A complete technical specification Word document is included in the root directo
 
 ---
 
-## 👤 Author
+## 👥 Contributors & Authors
 * **Shivangi Gupta** — [GitHub Profile](https://github.com/Shivangi-gupta-loo1)
+* **Suhani** — [GitHub Profile](https://github.com/2024a7r051)
