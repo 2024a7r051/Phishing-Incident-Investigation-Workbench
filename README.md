@@ -1,6 +1,7 @@
 # 🎣 Phishing Incident Investigation Workbench
 
 [![Live Deployment](https://img.shields.io/badge/Vercel-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://phishing-incident-investigation-wor.vercel.app)
+[![Contributors](https://img.shields.io/github/contributors/Shivangi-gupta-loo1/Phishing-Incident-Investigation-Workbench?style=for-the-badge&color=brightgreen)](https://github.com/Shivangi-gupta-loo1/Phishing-Incident-Investigation-Workbench/graphs/contributors)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
@@ -147,6 +148,23 @@ A complete technical specification Word document is included in the root directo
 
 ---
 
-## 👥 Contributors & Authors
-* **Shivangi Gupta** — [GitHub Profile](https://github.com/Shivangi-gupta-loo1)
-* **Suhani** — [GitHub Profile](https://github.com/2024a7r051)
+## 👥 Project Team & Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Shivangi-gupta-loo1">
+        <img src="https://github.com/Shivangi-gupta-loo1.png" width="100px;" alt="Shivangi Gupta"/><br />
+        <sub><b>Shivangi Gupta</b></sub>
+      </a><br />
+      <sub>Team Lead</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/2024a7r051">
+        <img src="https://github.com/2024a7r051.png" width="100px;" alt="Suhani"/><br />
+        <sub><b>Suhani</b></sub>
+      </a><br />
+      <sub>Collaborator / Contributor</sub>
+    </td>
+  </tr>
+</table>
